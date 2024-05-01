@@ -1,0 +1,28 @@
+body {
+  font: "Times New Roman" sans-serif;
+}
+h3 {
+  font-size: 24px;
+}
+.card {
+  margin: auto;
+  border: 3px solid #dbdbdb;
+  width: 304px;
+  padding: 10px;
+  box-shadow: 5px 5px #e9e9e9;
+}
+.description {
+  border: 2px solid #dbdbdb;
+  padding: 15px 5px;
+  margin-top: 5px;
+}
+img {
+  width: 300px;
+  border: 2px solid #dbdbdb;
+}
+.bolded {
+  font-weight: bold;
+}
+li {
+  list-style: none;
+}
